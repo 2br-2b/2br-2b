@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a college student studying Computer Science! Feel free to contribute to any of my projects, and feel free to send me an email!
+I'm a full-time software developer! Feel free to contribute to any of my projects, and feel free to [send me an email](https://codegito.xyz/send-me-a-memo/)!
 
 # Current projects 👨🏻‍💻
 
