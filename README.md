@@ -6,7 +6,7 @@ I'm a full-time software developer! Feel free to contribute to any of my project
 
 I'm making a Discord chatbot called StoryBot. It's a Discord bot which chooses random users to continue writing a collaborative story, with complete chaos as the result! Check it out:
 
-<a href="https://discord.gg/qAHDQjRfyA"><img src="Try%20out%20bot.png" alt= "Try my Discord bot!" height="87" ></a>
+<a href="https://storybot.app/app-directory"><img src="Try%20out%20bot.png" alt= "Try my Discord bot!" height="87" ></a>
 
 # My blog 💻
 
